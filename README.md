@@ -1,2 +1,2 @@
-# KKBOX_churn_prediction
+# KKBOX churn prediction
 Kaggle competition project
